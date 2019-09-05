@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/osprey"]
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey.git
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "themes/themes/osprey"]
+	path = themes/themes/osprey
+	url = https://github.com/tomanistor/osprey.git
