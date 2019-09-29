@@ -1,4 +1,4 @@
-baseURL = "https://venaissance.github.io/"
+baseURL = "https://venaissance.me"
 title = "Venaissance's Blog"
 theme = "hugo-swift-theme"
 author = "Varian"
